@@ -20,6 +20,9 @@ void calculatePolyhedraArea (const char * fileName) {
 		IPObjectStruct
 			*PObj = IPGetObjects(Handler);
 
+
+        // New dev.
+        // ...
 		/* Done with file - close it. */
 		IPCloseStream(Handler, TRUE);
 
