@@ -12,6 +12,8 @@ extern "C" {
 #include "geom_lib.h"
 }
 
+// Dev2
+// ...
 
 void calculatePolyhedraArea (const char * fileName) {
 	int Handler;
